@@ -3,7 +3,7 @@
 
 Here are the Postman URLs and methods:
 
-<!-- Authentication Endpoints
+
 User Registration:
 POST - http://localhost:5000/api/auth/register
 User Login:
@@ -31,4 +31,3 @@ View Maintenance History:
 GET - http://localhost:5000/api/maintenance/history/:laptopId
 Report an Issue:
 POST - http://localhost:5000/api/issues
-These URLs are urls for checking.
